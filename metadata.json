@@ -1,0 +1,7 @@
+{
+  "name": "EZEN NEWS Generator",
+  "description": "A high-performance news post generator with customizable images, circular overlays, and highlighted headlines, following the EZEN NEWS branding style.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
