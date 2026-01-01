@@ -13,8 +13,8 @@ RUN npm install
 # Copiar todo o código da aplicação
 COPY . .
 
-# Expor porta 3000 (conforme vite.config.ts)
-EXPOSE 3000
+# Expor porta 3007(conforme vite.config.ts)
+EXPOSE 3007
 
 # Comando para iniciar o servidor de desenvolvimento
 CMD ["npm", "run", "dev"]
